@@ -72,4 +72,10 @@ nav{
     position: relative;
 }
 
-.solution
+.solution:hover .solution-dd {
+    display: flex;
+}
+
+.btn {
+    display: flex;
+}
